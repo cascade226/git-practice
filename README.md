@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 conflictで変更
-Github上で更新したよ
+Github上で更新してない
